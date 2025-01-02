@@ -3,7 +3,7 @@ This project analyzes supermarket sales data using Power BI to uncover key insig
 
 
 ## Dashboard Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/Ahlemmhm/Supermarket-Sales-Dashboard/blob/main/Sales%20Report%20Dashboard.png)
 
 ## Dataset
 - [Supermarket Sales Dataset on Kaggle](https://www.kaggle.com/datasets/arunjangir245/super-market-sales/data)
